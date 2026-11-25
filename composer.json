@@ -1,0 +1,8 @@
+{
+    "name": "utp/lab-2fa-php",
+    "description": "Laboratorio 2FA (TOTP) en PHP + MySQL - Desarrollo Web UTP",
+    "require": {
+        "php": ">=8.0",
+        "sonata-project/google-authenticator": "^2.3"
+    }
+}
