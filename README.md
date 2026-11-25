@@ -63,7 +63,7 @@ Primero se validan usuario y contraseña; después se pide el código TOTP antes
 #### 5. Tablas de la base de datos
 `usuarios` e `intentos_login` registran los datos de la aplicación.
 
-![Tablas](capturas/users.png)
+![Tablas](capturas/usuarios.png)
 
 ## Estructura de Carpetas o Directorios
 
